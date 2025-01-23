@@ -1,0 +1,19 @@
+{
+    "name": "devs-studio/phparray",
+    "description": "PHP classes for array handling",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DevsStudio\\Phparray\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jean Paul Perea",
+            "email": "jeanpaper@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
