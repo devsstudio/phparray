@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Pe\Devs\PhpArray;
+namespace DevsStudio\Phparray\Helpers;
 
 /**
  * Description of USArray
