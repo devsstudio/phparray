@@ -6,14 +6,14 @@
  * and open the template in the editor.
  */
 
-namespace DevsStudio\Phparray\Helpers;
+namespace DevsStudio\Phparray\Utils;
 
 /**
  * Description of USArray
  *
  * @author JEANPAUL
  */
-class ArrayHelper
+class ArrayUtil
 {
 
     /**
